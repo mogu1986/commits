@@ -1,2 +1,13 @@
 # 数据模型 gitlab地址,名称,分支,项目ID，是否先清空数据
 http://gitlab.top.mw/mw-rds/mw-rds.git,mw-rds,master,273,true
+http://gitlab.top.mw/front/rds-manager-vue.git,rds-manager-vue,dev,274,true
+http://gitlab.top.mw/front/rds-h5-vue.git,rds-h5-vue,dev,275,true
+http://gitlab.top.mw/mw-iim/mw-iim.git,mw-iim,dev,248,true
+http://gitlab.top.mw/hr/hr-base.git,hr-base,dev,33,true
+http://gitlab.top.mw/hr/hr-assess.git,hr-assess,dev,48,true
+http://gitlab.top.mw/hr/hr-arrangework.git,hr-arrangework,dev,96,true
+http://gitlab.top.mw/hr/business-events.git,business-events,dev,122,true
+
+# 管网
+http://gitlab.top.mw/mw-website/mw-cloud-website.git,mw-cloud-website,dev,239,true
+http://gitlab.top.mw/mw-surmax/mw-finance.git,mw-finance,dev,238,true
