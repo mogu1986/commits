@@ -1,1 +1,2 @@
-http://gitlab.top.mw/mw-rds/mw-rds.git,master,273
+# 数据模型 gitlab地址,名称,分支,项目ID，是否先清空数据
+http://gitlab.top.mw/mw-rds/mw-rds.git,mw-rds,master,273,true
